@@ -46,7 +46,7 @@ color:#ffff;
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.050),rgba(0,0,0,.050)100%), url("/img/jessiej.png");
+    background: linear-gradient(rgba(0,0,0,.050),rgba(0,0,0,.050)100%), url("./img/jessiej.png");
     height: 500px;
     background-size: cover;
     display: flex;
